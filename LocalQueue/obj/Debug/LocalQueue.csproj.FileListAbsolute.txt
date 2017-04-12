@@ -4,3 +4,6 @@ c:\users\neil.tsai\documents\visual studio 2015\Projects\LocalQueue\LocalQueue\b
 c:\users\neil.tsai\documents\visual studio 2015\Projects\LocalQueue\LocalQueue\obj\Debug\LocalQueue.csprojResolveAssemblyReference.cache
 c:\users\neil.tsai\documents\visual studio 2015\Projects\LocalQueue\LocalQueue\obj\Debug\LocalQueue.exe
 c:\users\neil.tsai\documents\visual studio 2015\Projects\LocalQueue\LocalQueue\obj\Debug\LocalQueue.pdb
+C:\Users\neil.tsai\Documents\GitHub\LocalQueue\LocalQueue\bin\Debug\LocalQueue.exe.config
+C:\Users\neil.tsai\Documents\GitHub\LocalQueue\LocalQueue\obj\Debug\LocalQueue.exe
+C:\Users\neil.tsai\Documents\GitHub\LocalQueue\LocalQueue\obj\Debug\LocalQueue.pdb

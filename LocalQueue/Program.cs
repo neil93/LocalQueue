@@ -19,7 +19,7 @@ namespace LocalQueue
             }
 
             ProcessManager.Instance.EnqueueMap(mapList);
-            Console.WriteLine("doing....");
+            Console.WriteLine("doing....test");
             Console.ReadKey();
 
         }
